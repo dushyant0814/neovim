@@ -1,5 +1,5 @@
 # neovim
-
+Sourced from : https://github.com/ThePrimeagen/init.lua
 Setup
 
 1. In your home directory inside .config place this folder
